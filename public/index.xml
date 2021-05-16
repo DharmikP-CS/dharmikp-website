@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dharmik Panchal</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Dharmik Panchal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First blog</title>
+      <link>http://www.example.com/posts/markdown-syntax/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;To be added&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>Software Engineer
+Tech: Node.js, Go, Python, Scala, Java, C++, JavaScript, REST, SQL, SQL Server, MySQL, Oracle DB, AWS, Azure, J2EE, Express.js, Git.
+I develop various backend services and APIs.
+Inherently curious.
+You can reach me at dharmikp572@gmail.com
+ Github: https://github.com/DharmikP-CS LinkedIn: https://www.linkedin.com/in/dharmik-panchal/ Twitter: https://twitter.com/Dharmik_cs HackerRank: https://www.hackerrank.com/dharmikp572 LeetCode: https://leetcode.com/DharmikP/  Curiosity may have killed the cat but it also fuelled the desire to explore the world. Our world is not limited due to our reach but due to our vision.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>KeyVGo, HerokuMay 2021 - PresentKeyV(&amp;ldquo;Kiwi&amp;rdquo;) is a key value store written in Go. https://github.com/DharmikP-CS/KeyV
+Conway’s Game of LifeReact, JavaScript, GitHub pagesSept 2020Implemented a responsive version of Conway’s Game of Life a cellular automaton using React and with various options to load, save patterns, generate random patterns, etc. See https://dharmikp-cs.github.io/gameoflife/
+alGorithms/ Project-EulerGoFeb 2020-presentGo implementation of some algorithms and solutions to some of Project Euler’s problems.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>Mail me, dharmikp572@gmail.com
+Connect with me, https://www.linkedin.com/in/dharmik-panchal/
+Github, https://github.com/DharmikP-CS
+Follow me, @Dharmik_cs.</description>
+    </item>
+    
+  </channel>
+</rss>
